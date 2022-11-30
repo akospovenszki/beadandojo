@@ -1,0 +1,2 @@
+# beadandojo
+Szkript nyelv beadandó
